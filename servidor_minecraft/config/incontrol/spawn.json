@@ -1,0 +1,12 @@
+[
+  {
+    "mob": "themanfromthefog:the_man",
+    "result": "deny",
+    "chance": 0.75
+  },
+  {
+    "mob": "sirenheadmod:siren_head",
+    "result": "deny",
+    "chance": 0.75
+  }
+]
