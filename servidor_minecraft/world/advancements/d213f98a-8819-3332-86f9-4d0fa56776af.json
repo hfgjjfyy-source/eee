@@ -103,9 +103,10 @@
   },
   "incendium:technical/using/shield": {
     "criteria": {
+      "requirement": "2025-08-01 20:35:39 +0000",
       "log_spam_fixer": "2025-08-01 20:05:38 +0000"
     },
-    "done": false
+    "done": true
   },
   "tombstone:adventure/root": {
     "criteria": {
@@ -425,7 +426,9 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
-      "minecraft:husk": "2025-08-01 20:18:45 +0000"
+      "minecraft:spider": "2025-08-01 20:30:09 +0000",
+      "minecraft:husk": "2025-08-01 20:18:45 +0000",
+      "minecraft:zombie": "2025-08-01 20:30:22 +0000"
     },
     "done": false
   },
@@ -444,6 +447,12 @@
   "minecraft:recipes/building_blocks/iron_block": {
     "criteria": {
       "has_iron_ingot": "2025-08-01 20:19:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tripwire_hook": {
+    "criteria": {
+      "has_string": "2025-08-01 20:30:09 +0000"
     },
     "done": true
   },
@@ -480,6 +489,12 @@
   "securitycraft:recipes/building_blocks/reinforced_andesite_with_vanilla_cobblestone": {
     "criteria": {
       "has_cobblestone": "2025-08-01 20:10:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/candle": {
+    "criteria": {
+      "has_string": "2025-08-01 20:30:09 +0000"
     },
     "done": true
   },
@@ -1155,6 +1170,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/bow": {
+    "criteria": {
+      "has_string": "2025-08-01 20:30:09 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/crafting/logistics/magenta_table_cloth": {
     "criteria": {
       "has_wool": "2025-08-01 20:19:46 +0000"
@@ -1236,6 +1257,12 @@
   "minecraft:story/smelt_iron": {
     "criteria": {
       "iron": "2025-08-01 20:19:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/fishing_rod": {
+    "criteria": {
+      "has_string": "2025-08-01 20:30:09 +0000"
     },
     "done": true
   },
@@ -1563,6 +1590,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/fermented_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2025-08-01 20:30:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_ingot_from_smelting_raw_iron": {
     "criteria": {
       "has_raw_iron": "2025-08-01 20:13:20 +0000"
@@ -1635,6 +1668,12 @@
     },
     "done": true
   },
+  "legendary_monsters:defeat_spiky_bug": {
+    "criteria": {
+      "spiky_bug": "2025-08-01 20:32:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/spruce_trapdoor": {
     "criteria": {
       "has_planks": "2025-08-01 20:09:12 +0000"
@@ -1680,6 +1719,12 @@
   "mca:recipes/decorations/gray_spruce_crib": {
     "criteria": {
       "has_spruce_planks": "2025-08-01 20:09:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/white_wool_from_string": {
+    "criteria": {
+      "has_string": "2025-08-01 20:30:09 +0000"
     },
     "done": true
   },
@@ -1759,6 +1804,12 @@
   "tombstone:adventure/ashes_and_bones": {
     "criteria": {
       "coded_trigger": "2025-08-01 20:26:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/loom": {
+    "criteria": {
+      "has_string": "2025-08-01 20:30:09 +0000"
     },
     "done": true
   },

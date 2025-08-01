@@ -1588,3 +1588,118 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [01Aug2025 20:32:05.442] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JJleyendsxd joined the game
 [01Aug2025 20:32:05.520] [Server thread/INFO] [untamedwilds.UntamedWilds/]: Firing player login event
 [01Aug2025 20:32:05.522] [Server thread/INFO] [Jade/]: Syncing config to JJleyendsxd (60f3c68d-2328-339c-ad17-c2d9c96ed461)
+[01Aug2025 20:32:25.490] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8685ms or 173 ticks behind
+[01Aug2025 20:32:36.974] [Worker-Main-2/WARN] [lithostitched/]: Non-existent template pool reference: stellaris:stronghold/corridors_no_stairs
+[01Aug2025 20:32:37.021] [Worker-Main-2/WARN] [lithostitched/]: Non-existent template pool reference: fokastudio:end/stronghold/illagers
+[01Aug2025 20:32:37.074] [Worker-Main-2/WARN] [lithostitched/]: Non-existent template pool reference: fokastudio:end/stronghold/illagers
+[01Aug2025 20:32:37.083] [Worker-Main-2/WARN] [lithostitched/]: Non-existent template pool reference: stellaris:stronghold/corridors_no_stairs
+[01Aug2025 20:32:37.147] [Worker-Main-2/WARN] [lithostitched/]: Non-existent template pool reference: fokastudio:end/stronghold/illagers
+[01Aug2025 20:32:37.417] [Worker-Main-2/WARN] [lithostitched/]: Non-existent template pool reference: stellaris:stronghold/corridors_no_stairs
+[01Aug2025 20:32:37.420] [Worker-Main-2/WARN] [lithostitched/]: Non-existent template pool reference: fokastudio:end/stronghold/illagers
+[01Aug2025 20:32:37.474] [Worker-Main-2/WARN] [lithostitched/]: Non-existent template pool reference: fokastudio:end/stronghold/illagers
+[01Aug2025 20:32:37.701] [Worker-Main-2/WARN] [lithostitched/]: Non-existent template pool reference: fokastudio:end/stronghold/illagers
+[01Aug2025 20:32:37.798] [Worker-Main-2/WARN] [lithostitched/]: Non-existent template pool reference: stellarity:stronghold/storage/piles
+[01Aug2025 20:32:37.798] [Worker-Main-2/WARN] [lithostitched/]: Non-existent template pool reference: stellarity:stronghold/storage/piles
+[01Aug2025 20:32:37.810] [Worker-Main-2/WARN] [lithostitched/]: Non-existent template pool reference: stellaris:stronghold/corridors_no_stairs
+[01Aug2025 20:32:37.836] [Worker-Main-2/WARN] [lithostitched/]: Non-existent template pool reference: fokastudio:end/stronghold/illagers
+[01Aug2025 20:32:37.945] [Worker-Main-2/WARN] [lithostitched/]: Non-existent template pool reference: fokastudio:end/stronghold/illagers
+[01Aug2025 20:32:38.281] [Worker-Main-2/WARN] [lithostitched/]: Non-existent template pool reference: stellaris:stronghold/corridors_no_stairs
+[01Aug2025 20:32:38.565] [Worker-Main-2/WARN] [lithostitched/]: Non-existent template pool reference: stellaris:stronghold/corridors_no_stairs
+[01Aug2025 20:32:38.613] [Worker-Main-2/WARN] [lithostitched/]: Non-existent template pool reference: fokastudio:end/stronghold/illagers
+[01Aug2025 20:32:38.668] [Worker-Main-2/WARN] [lithostitched/]: Non-existent template pool reference: stellaris:stronghold/illagers
+[01Aug2025 20:32:38.951] [Worker-Main-2/WARN] [lithostitched/]: Non-existent template pool reference: fokastudio:end/stronghold/illagers
+[01Aug2025 20:32:39.624] [Worker-Main-2/WARN] [lithostitched/]: Non-existent template pool reference: fokastudio:end/stronghold/illagers
+[01Aug2025 20:32:39.660] [Worker-Main-2/WARN] [lithostitched/]: Non-existent template pool reference: stellaris:stronghold/corridors_no_stairs
+[01Aug2025 20:32:39.801] [Worker-Main-2/WARN] [lithostitched/]: Non-existent template pool reference: stellaris:stronghold/corridors_no_stairs
+[01Aug2025 20:32:40.334] [Worker-Main-2/WARN] [lithostitched/]: Non-existent template pool reference: fokastudio:end/stronghold/illagers
+[01Aug2025 20:32:40.664] [Worker-Main-2/WARN] [lithostitched/]: Non-existent template pool reference: fokastudio:end/stronghold/illagers
+[01Aug2025 20:32:41.142] [Worker-Main-2/WARN] [lithostitched/]: Non-existent template pool reference: fokastudio:end/stronghold/illagers
+[01Aug2025 20:32:41.987] [Worker-Main-2/WARN] [lithostitched/]: Non-existent template pool reference: stellaris:stronghold/corridors_no_stairs
+[01Aug2025 20:32:42.313] [Worker-Main-2/WARN] [lithostitched/]: Non-existent template pool reference: stellaris:stronghold/corridors_no_stairs
+[01Aug2025 20:32:51.460] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 11004ms or 220 ticks behind
+[01Aug2025 20:32:57.670] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RODSQUARE has made the advancement [A Disgusting Worm]
+[01Aug2025 20:33:16.397] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9941ms or 198 ticks behind
+[01Aug2025 20:33:34.786] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[01Aug2025 20:33:34.786] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[01Aug2025 20:33:35.410] [Worker-Main-2/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-8, 97], pos: BlockPos{x=-113, y=62, z=1553}, status: minecraft:features, currently generating: Placed Direct{Configured: untamedwilds.world.gen.feature.FeatureReedClusters@67e9985f: net.minecraft.world.level.levelgen.feature.configurations.NoneFeatureConfiguration@2be84eb5}
+[01Aug2025 20:33:38.935] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JUANCITO: Set own game mode to Spectator Mode]
+[01Aug2025 20:33:40.777] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=1, y=127, z=7}
+[01Aug2025 20:33:41.587] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10231ms or 204 ticks behind
+[01Aug2025 20:33:43.948] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=1, y=127, z=7}
+[01Aug2025 20:33:44.020] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=1, y=128, z=7}
+[01Aug2025 20:33:44.250] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=1, y=127, z=7}
+[01Aug2025 20:33:44.492] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=1, y=128, z=7}
+[01Aug2025 20:33:45.200] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=1, y=126, z=7}
+[01Aug2025 20:33:49.684] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=1, y=127, z=7}
+[01Aug2025 20:33:50.437] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=1, y=128, z=7}
+[01Aug2025 20:33:50.795] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RODSQUARE was slain by Spiky Worm
+[01Aug2025 20:33:50.857] [Server thread/INFO] [tombstone/]: The player RODSQUARE has successfully been saved
+[01Aug2025 20:33:52.088] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JJleyendsxd lost connection: Disconnected
+[01Aug2025 20:33:52.089] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JJleyendsxd left the game
+[01Aug2025 20:33:52.170] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[01Aug2025 20:33:57.414] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JUANCITO: Set own game mode to Survival Mode]
+[01Aug2025 20:34:01.546] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4991ms or 99 ticks behind
+[01Aug2025 20:34:07.514] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=665, y=-20, z=-299}
+[01Aug2025 20:34:07.516] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=677, y=-20, z=-299}
+[01Aug2025 20:34:08.035] [Worker-Main-3/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:
+[01Aug2025 20:34:08.040] [Worker-Main-3/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:
+[01Aug2025 20:34:22.594] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6089ms or 121 ticks behind
+[01Aug2025 20:34:44.332] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6777ms or 135 ticks behind
+[01Aug2025 20:35:05.893] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6587ms or 131 ticks behind
+[01Aug2025 20:35:27.445] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6589ms or 131 ticks behind
+[01Aug2025 20:35:48.766] [Worker-Main-2/ERROR] [net.minecraft.world.level.levelgen.feature.MonsterRoomFeature/]: Failed to fetch mob spawner entity at (-1813, 22, -5127)
+[01Aug2025 20:35:53.329] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10923ms or 218 ticks behind
+[01Aug2025 20:35:56.164] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RODSQUARE has made the advancement [Suit Up]
+[01Aug2025 20:36:18.308] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10002ms or 200 ticks behind
+[01Aug2025 20:36:37.660] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JUANCITO has made the advancement [Knowledge of Death]
+[01Aug2025 20:36:37.660] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JUANCITO has made the advancement [Ambush]
+[01Aug2025 20:36:41.418] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RODSQUARE has made the advancement [I Found It Underground]
+[01Aug2025 20:36:41.419] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RODSQUARE has made the advancement [Isn't It Iron Pick]
+[01Aug2025 20:36:43.514] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10209ms or 204 ticks behind
+[01Aug2025 20:36:56.277] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JUANCITO has made the advancement [Knowledge raises the soul]
+[01Aug2025 20:37:08.173] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9668ms or 193 ticks behind
+[01Aug2025 20:37:10.165] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JUANCITO: Set own game mode to Spectator Mode]
+[01Aug2025 20:37:24.212] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JUANCITO: Set own game mode to Creative Mode]
+[01Aug2025 20:37:29.319] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6163ms or 123 ticks behind
+[01Aug2025 20:37:30.277] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JUANCITO has made the advancement [I Found It Underground]
+[01Aug2025 20:37:51.698] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7393ms or 147 ticks behind
+[01Aug2025 20:37:57.003] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RODSQUARE has made the advancement [How long's this been here?]
+[01Aug2025 20:38:01.448] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RODSQUARE has made the advancement [Magery]
+[01Aug2025 20:38:14.485] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7829ms or 156 ticks behind
+[01Aug2025 20:38:37.528] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8073ms or 161 ticks behind
+[01Aug2025 20:38:46.389] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JUANCITO: Set own game mode to Spectator Mode]
+[01Aug2025 20:38:58.793] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6287ms or 125 ticks behind
+[01Aug2025 20:39:00.547] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JUANCITO: Set own game mode to Creative Mode]
+[01Aug2025 20:39:14.228] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JUANCITO has made the advancement [Cover Me with Diamonds]
+[01Aug2025 20:39:20.800] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7045ms or 140 ticks behind
+[01Aug2025 20:39:43.842] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8086ms or 161 ticks behind
+[01Aug2025 20:40:06.816] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8011ms or 160 ticks behind
+[01Aug2025 20:40:31.031] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9225ms or 184 ticks behind
+[01Aug2025 20:40:50.671] [Worker-Main-1/WARN] [lithostitched/]: Non-existent template pool reference: ctov:village/bounty/plains
+[01Aug2025 20:40:50.695] [Worker-Main-1/WARN] [lithostitched/]: Non-existent template pool reference: ctov:village/waystone/normal
+[01Aug2025 20:40:50.700] [Worker-Main-1/WARN] [lithostitched/]: Non-existent template pool reference: ctov:village/vampirism/totem
+[01Aug2025 20:40:54.173] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8168ms or 163 ticks behind
+[01Aug2025 20:41:05.602] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: JJleyendsxd[/127.211.88.39:58067] logged in with entity id 58958 at (1.1003185145660723, 128.0, 7.299579392293646)
+[01Aug2025 20:41:05.620] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JJleyendsxd joined the game
+[01Aug2025 20:41:05.692] [Server thread/INFO] [untamedwilds.UntamedWilds/]: Firing player login event
+[01Aug2025 20:41:05.693] [Server thread/INFO] [Jade/]: Syncing config to JJleyendsxd (60f3c68d-2328-339c-ad17-c2d9c96ed461)
+[01Aug2025 20:41:07.017] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JUANCITO has made the advancement [Into Fire]
+[01Aug2025 20:41:16.669] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7513ms or 150 ticks behind
+[01Aug2025 20:41:35.687] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RODSQUARE has made the advancement [Cover Me with Diamonds]
+[01Aug2025 20:41:39.502] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7847ms or 156 ticks behind
+[01Aug2025 20:41:55.671] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JUANCITO has reached the goal [Worthy Equipment]
+[01Aug2025 20:41:55.672] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JUANCITO has made the advancement [Isn't It Iron Pick]
+[01Aug2025 20:42:02.147] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7691ms or 153 ticks behind
+[01Aug2025 20:42:08.333] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JUANCITO: Set own game mode to Spectator Mode]
+[01Aug2025 20:42:11.192] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=1, y=126, z=7}
+[01Aug2025 20:42:11.809] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=1, y=126, z=7}
+[01Aug2025 20:42:11.957] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=1, y=127, z=7}
+[01Aug2025 20:42:12.191] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=0, y=127, z=7}
+[01Aug2025 20:42:13.401] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=1, y=126, z=7}
+[01Aug2025 20:42:13.403] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=1, y=127, z=7}
+[01Aug2025 20:42:14.272] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=1, y=127, z=7}
+[01Aug2025 20:42:14.648] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JUANCITO: Set own game mode to Creative Mode]
+[01Aug2025 20:42:15.093] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=1, y=127, z=7}
+[01Aug2025 20:42:15.242] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=1, y=128, z=7}
+[01Aug2025 20:42:25.532] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8427ms or 168 ticks behind
+[01Aug2025 20:42:29.102] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JJleyendsxd has made the advancement [Alex's Mobs]

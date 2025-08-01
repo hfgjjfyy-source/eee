@@ -141,8 +141,11 @@
     "criteria": {
       "minecraft:taiga": "2025-08-01 18:42:01 +0000",
       "minecraft:frozen_river": "2025-08-01 18:42:07 +0000",
+      "minecraft:birch_forest": "2025-08-01 20:30:43 +0000",
       "minecraft:river": "2025-08-01 20:12:42 +0000",
+      "minecraft:stony_shore": "2025-08-01 20:34:26 +0000",
       "minecraft:snowy_taiga": "2025-08-01 18:39:33 +0000",
+      "minecraft:old_growth_birch_forest": "2025-08-01 20:30:46 +0000",
       "minecraft:plains": "2025-08-01 20:11:54 +0000"
     },
     "done": false
@@ -1715,11 +1718,16 @@
   },
   "regions_unexplored:regions_explored": {
     "criteria": {
+      "pine_taiga": "2025-08-01 20:31:00 +0000",
+      "willow_forest": "2025-08-01 20:35:01 +0000",
       "frozen_tundra": "2025-08-01 20:04:08 +0000",
       "rocky_meadow": "2025-08-01 20:17:41 +0000",
+      "highland_fields": "2025-08-01 20:33:53 +0000",
       "frozen_pine_taiga": "2025-08-01 20:04:23 +0000",
+      "magnolia_highlands": "2025-08-01 20:29:16 +0000",
       "cold_boreal_taiga": "2025-08-01 20:04:07 +0000",
-      "cold_river": "2025-08-01 20:11:51 +0000"
+      "cold_river": "2025-08-01 20:11:51 +0000",
+      "lupine_plains": "2025-08-01 20:30:26 +0000"
     },
     "done": false
   },
@@ -1809,11 +1817,16 @@
   },
   "regions_unexplored:pioneer": {
     "criteria": {
+      "pine_taiga": "2025-08-01 20:31:00 +0000",
+      "willow_forest": "2025-08-01 20:35:01 +0000",
       "frozen_tundra": "2025-08-01 20:04:08 +0000",
       "rocky_meadow": "2025-08-01 20:17:41 +0000",
+      "highland_fields": "2025-08-01 20:33:53 +0000",
       "frozen_pine_taiga": "2025-08-01 20:04:23 +0000",
+      "magnolia_highlands": "2025-08-01 20:29:16 +0000",
       "cold_boreal_taiga": "2025-08-01 20:04:07 +0000",
-      "cold_river": "2025-08-01 20:11:51 +0000"
+      "cold_river": "2025-08-01 20:11:51 +0000",
+      "lupine_plains": "2025-08-01 20:30:26 +0000"
     },
     "done": false
   },
