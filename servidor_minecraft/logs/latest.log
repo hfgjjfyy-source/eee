@@ -1521,3 +1521,70 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [01Aug2025 20:21:28.059] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RODSQUARE has made the advancement [Sweet Dreams]
 [01Aug2025 20:21:30.782] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5926ms or 118 ticks behind
 [01Aug2025 20:21:51.707] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5951ms or 119 ticks behind
+[01Aug2025 20:22:14.084] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7378ms or 147 ticks behind
+[01Aug2025 20:22:31.240] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RODSQUARE has made the advancement [Far From Perfect]
+[01Aug2025 20:22:31.241] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RODSQUARE has made the advancement [Not a Diamond]
+[01Aug2025 20:22:36.815] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7759ms or 155 ticks behind
+[01Aug2025 20:22:39.795] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: -Azumi- has made the advancement [Knowledge of Death]
+[01Aug2025 20:22:39.795] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: -Azumi- has made the advancement [Ambush]
+[01Aug2025 20:22:39.796] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: -Azumi- has made the advancement [Monster Hunter]
+[01Aug2025 20:22:52.623] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: -Azumi- has made the advancement [Knowledge raises the soul]
+[01Aug2025 20:22:57.933] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6127ms or 122 ticks behind
+[01Aug2025 20:23:21.042] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: JJleyendsxd[/127.211.88.39:34543] logged in with entity id 22580 at (1.5, 126.0, 5.5)
+[01Aug2025 20:23:21.065] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JJleyendsxd joined the game
+[01Aug2025 20:23:21.139] [Server thread/INFO] [untamedwilds.UntamedWilds/]: Firing player login event
+[01Aug2025 20:23:21.140] [Server thread/INFO] [Jade/]: Syncing config to JJleyendsxd (60f3c68d-2328-339c-ad17-c2d9c96ed461)
+[01Aug2025 20:23:21.279] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JJleyendsxd has made the advancement [Ice and Fire]
+[01Aug2025 20:23:21.279] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JJleyendsxd has made the advancement [T.O Magic 'n Extras]
+[01Aug2025 20:23:21.673] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8768ms or 175 ticks behind
+[01Aug2025 20:23:47.433] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10778ms or 215 ticks behind
+[01Aug2025 20:24:12.854] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10448ms or 208 ticks behind
+[01Aug2025 20:24:32.589] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RODSQUARE has made the advancement [Apothic Affixes]
+[01Aug2025 20:24:32.591] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RODSQUARE has made the advancement [Funeral Theft]
+[01Aug2025 20:24:37.723] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9917ms or 198 ticks behind
+[01Aug2025 20:24:40.340] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JJleyendsxd lost connection: Disconnected
+[01Aug2025 20:24:40.340] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JJleyendsxd left the game
+[01Aug2025 20:25:01.013] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8307ms or 166 ticks behind
+[01Aug2025 20:25:23.447] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7442ms or 148 ticks behind
+[01Aug2025 20:25:46.799] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8394ms or 167 ticks behind
+[01Aug2025 20:26:09.044] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7289ms or 145 ticks behind
+[01Aug2025 20:26:17.258] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[01Aug2025 20:26:31.105] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RODSQUARE has made the advancement [Bonk!]
+[01Aug2025 20:26:31.107] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7101ms or 142 ticks behind
+[01Aug2025 20:26:37.886] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RODSQUARE has made the advancement [Ashes 'n Bones]
+[01Aug2025 20:26:53.702] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7596ms or 151 ticks behind
+[01Aug2025 20:27:01.921] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[01Aug2025 20:27:08.936] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JUANCITO has made the advancement [Diamonds!]
+[01Aug2025 20:27:11.688] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: JJleyendsxd[/127.211.88.39:60577] logged in with entity id 24779 at (1.5, 126.0, 5.5)
+[01Aug2025 20:27:11.706] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JJleyendsxd joined the game
+[01Aug2025 20:27:11.778] [Server thread/INFO] [untamedwilds.UntamedWilds/]: Firing player login event
+[01Aug2025 20:27:11.779] [Server thread/INFO] [Jade/]: Syncing config to JJleyendsxd (60f3c68d-2328-339c-ad17-c2d9c96ed461)
+[01Aug2025 20:27:16.034] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7378ms or 147 ticks behind
+[01Aug2025 20:27:16.140] [Server thread/ERROR] [placebo/]: Failed to locate any gear sets matching the following predicates: 
+[01Aug2025 20:27:16.141] [Server thread/ERROR] [placebo/]: SetPredicate[#irons_spellbooks]
+[01Aug2025 20:27:16.142] [Server thread/ERROR] [Apotheosis : Adventure/]: Failed to execute LootRule minecraft:diamond_boots/apotheosis:mythic/ABILITY/0.3!
+[01Aug2025 20:27:40.604] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9599ms or 191 ticks behind
+[01Aug2025 20:28:04.169] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RODSQUARE has made the advancement [Dripstone Everywhere]
+[01Aug2025 20:28:05.556] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10001ms or 200 ticks behind
+[01Aug2025 20:28:12.115] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JJleyendsxd lost connection: Disconnected
+[01Aug2025 20:28:12.115] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JJleyendsxd left the game
+[01Aug2025 20:28:30.309] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9754ms or 195 ticks behind
+[01Aug2025 20:28:52.889] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7584ms or 151 ticks behind
+[01Aug2025 20:29:15.503] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7647ms or 152 ticks behind
+[01Aug2025 20:29:29.486] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: -Azumi- has reached the goal [Fortuitous Militia]
+[01Aug2025 20:29:38.553] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8097ms or 161 ticks behind
+[01Aug2025 20:29:46.346] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Undead Knight'/25082, l='ServerLevel[world]', x=-593.76, y=91.41, z=1220.90] died: Undead Knight suffocated in a wall
+[01Aug2025 20:29:59.822] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6317ms or 126 ticks behind
+[01Aug2025 20:30:10.007] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RODSQUARE was slain by Man From The Fog
+[01Aug2025 20:30:10.051] [Server thread/INFO] [tombstone/]: The player RODSQUARE has successfully been saved
+[01Aug2025 20:30:21.077] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6272ms or 125 ticks behind
+[01Aug2025 20:30:25.544] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-22, y=-57, z=11}
+[01Aug2025 20:30:41.881] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5826ms or 116 ticks behind
+[01Aug2025 20:31:02.199] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5344ms or 106 ticks behind
+[01Aug2025 20:31:21.923] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4767ms or 95 ticks behind
+[01Aug2025 20:31:40.661] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3756ms or 75 ticks behind
+[01Aug2025 20:32:01.846] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6190ms or 123 ticks behind
+[01Aug2025 20:32:05.423] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: JJleyendsxd[/127.211.88.39:55235] logged in with entity id 45235 at (1.5, 126.0, 5.5)
+[01Aug2025 20:32:05.442] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JJleyendsxd joined the game
+[01Aug2025 20:32:05.520] [Server thread/INFO] [untamedwilds.UntamedWilds/]: Firing player login event
+[01Aug2025 20:32:05.522] [Server thread/INFO] [Jade/]: Syncing config to JJleyendsxd (60f3c68d-2328-339c-ad17-c2d9c96ed461)
