@@ -141,7 +141,9 @@
     "criteria": {
       "minecraft:taiga": "2025-08-01 18:42:01 +0000",
       "minecraft:frozen_river": "2025-08-01 18:42:07 +0000",
+      "minecraft:sunflower_plains": "2025-08-01 21:04:45 +0000",
       "minecraft:birch_forest": "2025-08-01 20:30:43 +0000",
+      "minecraft:windswept_hills": "2025-08-01 21:04:40 +0000",
       "minecraft:beach": "2025-08-01 20:57:54 +0000",
       "minecraft:mangrove_swamp": "2025-08-01 20:52:11 +0000",
       "minecraft:river": "2025-08-01 20:12:42 +0000",
@@ -412,6 +414,12 @@
     },
     "done": true
   },
+  "legendary_monsters:locate_ancient_stronghold": {
+    "criteria": {
+      "ancient_stronghold": "2025-08-01 21:02:20 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/crafting/kinetics/magenta_seat": {
     "criteria": {
       "has_wool": "2025-08-01 20:55:26 +0000"
@@ -487,7 +495,9 @@
   "dungeons_enhanced:ambitious_explorer": {
     "criteria": {
       "entered_tower_of_the_undead": "2025-08-01 20:44:46 +0000",
-      "entered_stables": "2025-08-01 20:18:16 +0000"
+      "entered_stables": "2025-08-01 20:18:16 +0000",
+      "entered_druid_circle": "2025-08-01 21:04:58 +0000",
+      "entered_ruined_building": "2025-08-01 21:01:13 +0000"
     },
     "done": false
   },
@@ -1239,6 +1249,12 @@
   "create:recipes/building_blocks/weathered_iron_block_from_ingots_iron_stonecutting": {
     "criteria": {
       "has_ingots_iron": "2025-08-01 20:15:17 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:light_as_a_frog": {
+    "criteria": {
+      "lily_pad": "2025-08-01 21:13:05 +0000"
     },
     "done": true
   },
@@ -2186,6 +2202,7 @@
   },
   "regions_unexplored:regions_explored": {
     "criteria": {
+      "shrubland": "2025-08-01 21:06:54 +0000",
       "fen": "2025-08-01 20:58:51 +0000",
       "pine_taiga": "2025-08-01 20:31:00 +0000",
       "bayou": "2025-08-01 20:58:10 +0000",
@@ -2194,15 +2211,18 @@
       "willow_forest": "2025-08-01 20:35:01 +0000",
       "frozen_tundra": "2025-08-01 20:04:08 +0000",
       "rocky_meadow": "2025-08-01 20:17:41 +0000",
+      "ochard": "2025-08-01 21:05:33 +0000",
       "highland_fields": "2025-08-01 20:33:53 +0000",
       "frozen_pine_taiga": "2025-08-01 20:04:23 +0000",
       "maple_forest": "2025-08-01 20:58:45 +0000",
       "magnolia_highlands": "2025-08-01 20:29:16 +0000",
+      "boreal_forest": "2025-08-01 21:02:06 +0000",
       "towering_cliffs": "2025-08-01 20:44:33 +0000",
       "bamboo_forest": "2025-08-01 20:44:23 +0000",
       "cold_boreal_taiga": "2025-08-01 20:04:07 +0000",
       "temperate_grove": "2025-08-01 20:57:47 +0000",
       "cold_river": "2025-08-01 20:11:51 +0000",
+      "old_growth_bayou": "2025-08-01 21:12:41 +0000",
       "redwoods": "2025-08-01 20:43:13 +0000",
       "lupine_plains": "2025-08-01 20:30:26 +0000"
     },
@@ -2318,6 +2338,7 @@
   },
   "regions_unexplored:pioneer": {
     "criteria": {
+      "shrubland": "2025-08-01 21:06:54 +0000",
       "fen": "2025-08-01 20:58:51 +0000",
       "pine_taiga": "2025-08-01 20:31:00 +0000",
       "bayou": "2025-08-01 20:58:10 +0000",
@@ -2326,15 +2347,18 @@
       "willow_forest": "2025-08-01 20:35:01 +0000",
       "frozen_tundra": "2025-08-01 20:04:08 +0000",
       "rocky_meadow": "2025-08-01 20:17:41 +0000",
+      "ochard": "2025-08-01 21:05:33 +0000",
       "highland_fields": "2025-08-01 20:33:53 +0000",
       "frozen_pine_taiga": "2025-08-01 20:04:23 +0000",
       "maple_forest": "2025-08-01 20:58:45 +0000",
       "magnolia_highlands": "2025-08-01 20:29:16 +0000",
+      "boreal_forest": "2025-08-01 21:02:06 +0000",
       "towering_cliffs": "2025-08-01 20:44:33 +0000",
       "bamboo_forest": "2025-08-01 20:44:23 +0000",
       "cold_boreal_taiga": "2025-08-01 20:04:07 +0000",
       "temperate_grove": "2025-08-01 20:57:47 +0000",
       "cold_river": "2025-08-01 20:11:51 +0000",
+      "old_growth_bayou": "2025-08-01 21:12:41 +0000",
       "redwoods": "2025-08-01 20:43:13 +0000",
       "lupine_plains": "2025-08-01 20:30:26 +0000"
     },

@@ -1888,3 +1888,68 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [01Aug2025 21:02:53.138] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6483ms or 129 ticks behind
 [01Aug2025 21:03:14.585] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6480ms or 129 ticks behind
 [01Aug2025 21:03:16.819] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[01Aug2025 21:03:24.227] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:stone_golem but it was marked as removed already
+[01Aug2025 21:03:37.539] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7983ms or 159 ticks behind
+[01Aug2025 21:03:54.685] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: -Azumi- has made the advancement [A Strange Grave Dust]
+[01Aug2025 21:03:58.080] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[01Aug2025 21:03:59.369] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6864ms or 137 ticks behind
+[01Aug2025 21:04:19.139] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4784ms or 95 ticks behind
+[01Aug2025 21:04:39.261] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5156ms or 103 ticks behind
+[01Aug2025 21:04:59.212] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4956ms or 99 ticks behind
+[01Aug2025 21:05:18.887] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4681ms or 93 ticks behind
+[01Aug2025 21:05:37.689] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3834ms or 76 ticks behind
+[01Aug2025 21:05:57.408] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4753ms or 95 ticks behind
+[01Aug2025 21:06:05.776] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JUANCITO: Set own game mode to Spectator Mode]
+[01Aug2025 21:06:13.901] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JUANCITO: Set own game mode to Creative Mode]
+[01Aug2025 21:06:17.240] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4835ms or 96 ticks behind
+[01Aug2025 21:06:38.642] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6437ms or 128 ticks behind
+[01Aug2025 21:06:45.583] [Server thread/ERROR] [placebo/]: Failed to locate any gear sets matching the following predicates: 
+[01Aug2025 21:06:45.583] [Server thread/ERROR] [placebo/]: SetPredicate[#irons_spellbooks]
+[01Aug2025 21:06:51.972] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[01Aug2025 21:06:59.450] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5845ms or 116 ticks behind
+[01Aug2025 21:07:19.083] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4677ms or 93 ticks behind
+[01Aug2025 21:07:38.343] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4287ms or 85 ticks behind
+[01Aug2025 21:07:57.327] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4022ms or 80 ticks behind
+[01Aug2025 21:08:14.484] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[01Aug2025 21:08:16.567] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4261ms or 85 ticks behind
+[01Aug2025 21:08:35.456] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3900ms or 78 ticks behind
+[01Aug2025 21:08:49.970] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[01Aug2025 21:08:51.573] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:stone_golem but it was marked as removed already
+[01Aug2025 21:08:51.916] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[01Aug2025 21:08:51.916] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[01Aug2025 21:08:53.787] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3332ms or 66 ticks behind
+[01Aug2025 21:09:13.147] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4392ms or 87 ticks behind
+[01Aug2025 21:09:32.973] [Worker-Main-3/WARN] [lithostitched/]: Non-existent template pool reference: ctov:village/vampirism/totem
+[01Aug2025 21:09:32.978] [Worker-Main-3/WARN] [lithostitched/]: Non-existent template pool reference: ctov:village/waystone/normal
+[01Aug2025 21:09:32.983] [Worker-Main-3/WARN] [lithostitched/]: Non-existent template pool reference: ctov:village/bounty/swamp
+[01Aug2025 21:09:33.106] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5001ms or 100 ticks behind
+[01Aug2025 21:09:54.656] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6550ms or 131 ticks behind
+[01Aug2025 21:10:14.033] [Worker-Main-1/WARN] [lithostitched/]: Non-existent template pool reference: ctov:village/vampirism/totem
+[01Aug2025 21:10:14.037] [Worker-Main-1/WARN] [lithostitched/]: Non-existent template pool reference: ctov:village/bounty/swamp
+[01Aug2025 21:10:14.047] [Worker-Main-1/WARN] [lithostitched/]: Non-existent template pool reference: ctov:village/waystone/normal
+[01Aug2025 21:10:15.115] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5459ms or 109 ticks behind
+[01Aug2025 21:10:36.384] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6279ms or 125 ticks behind
+[01Aug2025 21:10:40.411] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RODSQUARE has made the advancement [How'd You Get This?]
+[01Aug2025 21:10:58.148] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6792ms or 135 ticks behind
+[01Aug2025 21:11:01.716] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[01Aug2025 21:11:02.111] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[01Aug2025 21:11:20.465] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7359ms or 147 ticks behind
+[01Aug2025 21:11:41.610] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[01Aug2025 21:11:41.999] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6544ms or 130 ticks behind
+[01Aug2025 21:12:03.334] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6378ms or 127 ticks behind
+[01Aug2025 21:12:03.468] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: -Azumi- was slain by Man From The Fog
+[01Aug2025 21:12:03.483] [Server thread/INFO] [tombstone/]: The player -Azumi- has successfully been saved
+[01Aug2025 21:12:25.044] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6739ms or 134 ticks behind
+[01Aug2025 21:12:25.658] [Worker-Main-3/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:
+[01Aug2025 21:12:25.659] [Worker-Main-3/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:
+[01Aug2025 21:12:34.813] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[01Aug2025 21:12:34.813] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[01Aug2025 21:12:48.225] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8220ms or 164 ticks behind
+[01Aug2025 21:12:59.756] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RODSQUARE has reached the goal [Hammer Time!]
+[01Aug2025 21:13:05.000] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JUANCITO has made the advancement [Light as a Frog]
+[01Aug2025 21:13:05.912] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Erling'/59297, l='ServerLevel[world]', x=-2114.28, y=129.00, z=-4753.28] died, message: 'Erling was slain by Zombie Bruiser'
+[01Aug2025 21:13:05.912] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Erling'/59297, l='ServerLevel[world]', x=-2114.28, y=129.00, z=-4753.28] died: Erling was slain by Zombie Bruiser
+[01Aug2025 21:13:10.018] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6813ms or 136 ticks behind
+[01Aug2025 21:13:18.151] [Worker-Main-3/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [82, 20], pos: BlockPos{x=1323, y=74, z=321}, status: minecraft:features, currently generating: Placed Direct{Configured: untamedwilds.world.gen.feature.FeatureReedClusters@67e9985f: net.minecraft.world.level.levelgen.feature.configurations.NoneFeatureConfiguration@2be84eb5}
+[01Aug2025 21:13:33.279] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8274ms or 165 ticks behind
+[01Aug2025 21:13:35.671] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already

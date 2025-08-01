@@ -119,6 +119,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/red_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2025-08-01 21:00:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/golden_pickaxe": {
     "criteria": {
       "has_gold_ingot": "2025-08-01 20:57:17 +0000"
@@ -173,6 +179,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/find_grave_dust": {
+    "criteria": {
+      "from_undead": "2025-08-01 21:03:54 +0000"
+    },
+    "done": true
+  },
   "tombstone:recipes/from_grave_key": {
     "criteria": {
       "has_ingredient": "2025-08-01 20:08:56 +0000"
@@ -215,6 +227,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/green_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2025-08-01 21:00:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/birch_door": {
     "criteria": {
       "has_planks": "2025-08-01 20:51:17 +0000"
@@ -254,6 +272,12 @@
   "regions_unexplored:recipes/transportation/magnolia_boat": {
     "criteria": {
       "in_water": "2025-08-01 20:22:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blue_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2025-08-01 21:00:42 +0000"
     },
     "done": true
   },
@@ -435,6 +459,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:pillager": "2025-08-01 20:22:39 +0000",
+      "minecraft:spider": "2025-08-01 21:13:06 +0000",
       "minecraft:zombie": "2025-08-01 20:38:02 +0000"
     },
     "done": false
@@ -475,6 +500,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/tripwire_hook": {
+    "criteria": {
+      "has_string": "2025-08-01 21:13:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/birch_fence_gate": {
     "criteria": {
       "has_planks": "2025-08-01 20:51:17 +0000"
@@ -505,6 +536,12 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/building_blocks/peat_coarse_dirt": {
+    "criteria": {
+      "has_gravel": "2025-08-01 21:00:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/acacia_stairs": {
     "criteria": {
       "has_planks": "2025-08-01 20:58:24 +0000"
@@ -526,6 +563,12 @@
   "minecraft:recipes/misc/writable_book": {
     "criteria": {
       "has_book": "2025-08-01 20:34:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/candle": {
+    "criteria": {
+      "has_string": "2025-08-01 21:13:08 +0000"
     },
     "done": true
   },
@@ -703,6 +746,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/lime_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2025-08-01 21:00:42 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/decorations/birch_shrub": {
     "criteria": {
       "has_birch_sapling": "2025-08-01 20:48:32 +0000"
@@ -778,6 +827,12 @@
   "minecraft:recipes/misc/light_blue_dye_from_blue_white_dye": {
     "criteria": {
       "has_blue_dye": "2025-08-01 20:56:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/orange_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2025-08-01 21:00:42 +0000"
     },
     "done": true
   },
@@ -877,6 +932,12 @@
     },
     "done": true
   },
+  "regions_unexplored:spelunker": {
+    "criteria": {
+      "redstone_caves": "2025-08-01 21:02:57 +0000"
+    },
+    "done": false
+  },
   "stellarity:events/on_death": {
     "criteria": {
       "requirement": "2025-08-01 20:08:54 +0000"
@@ -904,6 +965,12 @@
   "minecraft:recipes/food/rabbit_stew_from_brown_mushroom": {
     "criteria": {
       "has_cooked_rabbit": "2025-08-01 20:31:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/magenta_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2025-08-01 21:00:42 +0000"
     },
     "done": true
   },
@@ -1081,6 +1148,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/cauldron": {
+    "criteria": {
+      "has_water_bucket": "2025-08-01 21:00:51 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_andesite_wall_from_stone_types_andesite_stonecutting": {
     "criteria": {
       "has_stone_types_andesite": "2025-08-01 20:25:57 +0000"
@@ -1162,6 +1235,12 @@
   "minecraft:recipes/building_blocks/dye_blue_bed": {
     "criteria": {
       "has_needed_dye": "2025-08-01 20:56:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/black_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2025-08-01 21:00:42 +0000"
     },
     "done": true
   },
@@ -1291,6 +1370,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/purple_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2025-08-01 21:00:42 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/redstone/reinforced_oak_fence_gate": {
     "criteria": {
       "has_stick": "2025-08-01 20:10:11 +0000"
@@ -1324,6 +1409,12 @@
   "securitycraft:recipes/misc/reinforced_bamboo_fence": {
     "criteria": {
       "has_stick": "2025-08-01 20:10:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cyan_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2025-08-01 21:00:42 +0000"
     },
     "done": true
   },
@@ -1417,6 +1508,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/coarse_dirt": {
+    "criteria": {
+      "has_gravel": "2025-08-01 21:00:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/light_gray_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2025-08-01 21:00:42 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/misc/dragon_meal": {
     "criteria": {
       "has_item": "2025-08-01 20:13:30 +0000"
@@ -1426,6 +1529,12 @@
   "minecraft:recipes/combat/leather_leggings": {
     "criteria": {
       "has_leather": "2025-08-01 20:16:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/pink_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2025-08-01 21:00:42 +0000"
     },
     "done": true
   },
@@ -1567,6 +1676,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/brown_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2025-08-01 21:00:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/bucket": {
     "criteria": {
       "has_iron_ingot": "2025-08-01 20:13:14 +0000"
@@ -1585,6 +1700,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/light_blue_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2025-08-01 21:00:42 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/misc/disguise_module": {
     "criteria": {
       "has_iron": "2025-08-01 20:13:14 +0000"
@@ -1594,6 +1715,12 @@
   "regions_unexplored:recipes/building_blocks/green_painted_planks": {
     "criteria": {
       "has_planks": "2025-08-01 20:07:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/bow": {
+    "criteria": {
+      "has_string": "2025-08-01 21:13:08 +0000"
     },
     "done": true
   },
@@ -1711,6 +1838,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/fishing_rod": {
+    "criteria": {
+      "has_string": "2025-08-01 21:13:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/smoker": {
     "criteria": {
       "has_furnace": "2025-08-01 20:12:14 +0000"
@@ -1768,6 +1901,12 @@
   "minecraft:recipes/building_blocks/polished_andesite_slab_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-08-01 20:25:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/white_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2025-08-01 21:00:42 +0000"
     },
     "done": true
   },
@@ -1924,6 +2063,12 @@
   "create:recipes/misc/crafting/kinetics/empty_blaze_burner": {
     "criteria": {
       "has_item": "2025-08-01 20:13:14 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/silt_coarse_dirt": {
+    "criteria": {
+      "has_gravel": "2025-08-01 21:00:42 +0000"
     },
     "done": true
   },
@@ -2211,6 +2356,7 @@
   },
   "regions_unexplored:regions_explored": {
     "criteria": {
+      "redstone_caves": "2025-08-01 21:02:57 +0000",
       "frozen_pine_taiga": "2025-08-01 20:07:37 +0000",
       "lupine_plains": "2025-08-01 20:56:05 +0000"
     },
@@ -2324,6 +2470,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/yellow_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2025-08-01 21:00:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/spruce_fence_gate": {
     "criteria": {
       "has_planks": "2025-08-01 20:07:05 +0000"
@@ -2379,6 +2531,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/white_wool_from_string": {
+    "criteria": {
+      "has_string": "2025-08-01 21:13:08 +0000"
+    },
+    "done": true
+  },
   "mca:recipes/decorations/white_acacia_crib": {
     "criteria": {
       "has_acacia_planks": "2025-08-01 20:58:24 +0000"
@@ -2400,6 +2558,12 @@
   "securitycraft:recipes/building_blocks/reinforced_diorite": {
     "criteria": {
       "has_cobblestone": "2025-08-01 20:10:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/gray_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2025-08-01 21:00:42 +0000"
     },
     "done": true
   },
@@ -2487,8 +2651,11 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_porkchop": "2025-08-01 20:16:27 +0000",
+      "cooked_mutton": "2025-08-01 21:11:44 +0000",
       "cooked_beef": "2025-08-01 20:38:42 +0000",
-      "bread": "2025-08-01 20:24:20 +0000"
+      "bread": "2025-08-01 20:24:20 +0000",
+      "cooked_rabbit": "2025-08-01 21:06:39 +0000",
+      "cooked_chicken": "2025-08-01 21:10:00 +0000"
     },
     "done": false
   },
@@ -2549,6 +2716,12 @@
   "minecraft:recipes/decorations/anvil": {
     "criteria": {
       "has_iron_block": "2025-08-01 20:39:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/loom": {
+    "criteria": {
+      "has_string": "2025-08-01 21:13:08 +0000"
     },
     "done": true
   },
