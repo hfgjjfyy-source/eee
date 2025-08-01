@@ -1953,3 +1953,92 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [01Aug2025 21:13:18.151] [Worker-Main-3/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [82, 20], pos: BlockPos{x=1323, y=74, z=321}, status: minecraft:features, currently generating: Placed Direct{Configured: untamedwilds.world.gen.feature.FeatureReedClusters@67e9985f: net.minecraft.world.level.levelgen.feature.configurations.NoneFeatureConfiguration@2be84eb5}
 [01Aug2025 21:13:33.279] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8274ms or 165 ticks behind
 [01Aug2025 21:13:35.671] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[01Aug2025 21:13:54.342] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [6 above bottom--1 absolute]
+[01Aug2025 21:13:54.343] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [6 above bottom--1 absolute]
+[01Aug2025 21:13:54.343] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [6 above bottom--1 absolute]
+[01Aug2025 21:13:56.828] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RODSQUARE has made the advancement [Incendium]
+[01Aug2025 21:13:56.828] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RODSQUARE has made the advancement [We Need to Go Deeper]
+[01Aug2025 21:13:56.829] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RODSQUARE has made the advancement [Nether Exorcism]
+[01Aug2025 21:14:00.397] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: -Azumi- moved too quickly! -7.14091734964768,6.249187078744683,-3.657724522218814
+[01Aug2025 21:14:06.913] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 18658ms or 373 ticks behind
+[01Aug2025 21:14:27.180] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5275ms or 105 ticks behind
+[01Aug2025 21:14:47.382] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=836, y=-26, z=-116}
+[01Aug2025 21:14:49.150] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6995ms or 139 ticks behind
+[01Aug2025 21:14:55.169] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[01Aug2025 21:15:11.387] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7281ms or 145 ticks behind
+[01Aug2025 21:15:15.869] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=665, y=-20, z=-299}
+[01Aug2025 21:15:15.870] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=677, y=-20, z=-299}
+[01Aug2025 21:15:34.825] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8469ms or 169 ticks behind
+[01Aug2025 21:15:57.178] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7373ms or 147 ticks behind
+[01Aug2025 21:16:19.925] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7770ms or 155 ticks behind
+[01Aug2025 21:16:26.031] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JUANCITO has made the advancement [Funeral Theft]
+[01Aug2025 21:16:41.552] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6646ms or 132 ticks behind
+[01Aug2025 21:17:03.626] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7120ms or 142 ticks behind
+[01Aug2025 21:17:28.021] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9415ms or 188 ticks behind
+[01Aug2025 21:17:49.749] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6743ms or 134 ticks behind
+[01Aug2025 21:18:09.297] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JUANCITO moved too quickly! 7.006327490848662,0.0,7.305217325213121
+[01Aug2025 21:18:14.111] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9406ms or 188 ticks behind
+[01Aug2025 21:18:37.908] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8803ms or 176 ticks behind
+[01Aug2025 21:18:43.732] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JUANCITO has made the advancement [Ashes 'n Bones]
+[01Aug2025 21:18:43.733] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Husk['Earl Sampson the Knight'/105443, l='ServerLevel[world]', x=1425.01, y=83.00, z=53.93] died: Earl Sampson the Knight was slain by JUANCITO
+[01Aug2025 21:18:44.908] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JUANCITO has completed the challenge [He Wasn't So Strong]
+[01Aug2025 21:19:02.041] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9135ms or 182 ticks behind
+[01Aug2025 21:19:27.073] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10067ms or 201 ticks behind
+[01Aug2025 21:19:42.156] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: -Azumi- died
+[01Aug2025 21:19:42.248] [Server thread/INFO] [tombstone/]: The player -Azumi- has successfully been saved
+[01Aug2025 21:19:42.607] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RODSQUARE has made the advancement [Hidden in the Depths]
+[01Aug2025 21:19:43.817] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: -Azumi- has made the advancement [The Most Useful Key]
+[01Aug2025 21:19:49.451] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7395ms or 147 ticks behind
+[01Aug2025 21:19:51.129] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: -Azumi- has reached the goal [A Fast Comeback]
+[01Aug2025 21:20:11.507] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7102ms or 142 ticks behind
+[01Aug2025 21:20:31.732] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5226ms or 104 ticks behind
+[01Aug2025 21:20:53.351] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6646ms or 132 ticks behind
+[01Aug2025 21:20:54.135] [Worker-Main-2/WARN] [ModdingLegacy/StructureGel/]: [structure_gel] Empty or non-existent pool: minecraft:
+[01Aug2025 21:20:54.320] [Worker-Main-2/WARN] [ModdingLegacy/StructureGel/]: [structure_gel] Empty or non-existent pool: minecraft:
+[01Aug2025 21:20:55.149] [Worker-Main-2/WARN] [ModdingLegacy/StructureGel/]: [structure_gel] Empty or non-existent pool: minecraft:
+[01Aug2025 21:20:55.378] [Worker-Main-2/WARN] [ModdingLegacy/StructureGel/]: [structure_gel] Empty or non-existent pool: minecraft:
+[01Aug2025 21:20:55.379] [Worker-Main-2/WARN] [ModdingLegacy/StructureGel/]: [structure_gel] Empty or non-existent pool: minecraft:
+[01Aug2025 21:20:55.379] [Worker-Main-2/WARN] [ModdingLegacy/StructureGel/]: [structure_gel] Empty or non-existent pool: minecraft:
+[01Aug2025 21:20:55.379] [Worker-Main-2/WARN] [ModdingLegacy/StructureGel/]: [structure_gel] Empty or non-existent pool: minecraft:
+[01Aug2025 21:20:57.513] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JUANCITO moved too quickly! 0.08360675222843383,-1.7539862017387549,-10.112464770095443
+[01Aug2025 21:21:01.342] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JUANCITO has made the advancement [Chompy]
+[01Aug2025 21:21:18.892] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10587ms or 211 ticks behind
+[01Aug2025 21:21:44.009] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10154ms or 203 ticks behind
+[01Aug2025 21:22:08.238] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9233ms or 184 ticks behind
+[01Aug2025 21:22:08.547] [Worker-Main-3/WARN] [lithostitched/]: Non-existent template pool reference: stellaris:stronghold/corridors_no_stairs
+[01Aug2025 21:22:08.576] [Worker-Main-3/WARN] [lithostitched/]: Non-existent template pool reference: stellaris:stronghold/corridors_no_stairs
+[01Aug2025 21:22:08.658] [Worker-Main-3/WARN] [lithostitched/]: Non-existent template pool reference: fokastudio:end/stronghold/illagers
+[01Aug2025 21:22:08.707] [Worker-Main-3/WARN] [lithostitched/]: Non-existent template pool reference: stellaris:stronghold/illagers
+[01Aug2025 21:22:08.711] [Worker-Main-3/WARN] [lithostitched/]: Non-existent template pool reference: fokastudio:end/stronghold/illagers
+[01Aug2025 21:22:08.734] [Worker-Main-3/WARN] [lithostitched/]: Non-existent template pool reference: stellaris:stronghold/illagers
+[01Aug2025 21:22:08.739] [Worker-Main-3/WARN] [lithostitched/]: Non-existent template pool reference: fokastudio:end/stronghold/illagers
+[01Aug2025 21:22:08.795] [Worker-Main-3/WARN] [lithostitched/]: Non-existent template pool reference: fokastudio:end/stronghold/illagers
+[01Aug2025 21:22:08.837] [Worker-Main-3/WARN] [lithostitched/]: Non-existent template pool reference: fokastudio:end/stronghold/illagers
+[01Aug2025 21:22:08.882] [Worker-Main-3/WARN] [lithostitched/]: Non-existent template pool reference: fokastudio:end/stronghold/illagers
+[01Aug2025 21:22:08.967] [Worker-Main-3/WARN] [lithostitched/]: Non-existent template pool reference: stellaris:stronghold/corridors_no_stairs
+[01Aug2025 21:22:08.997] [Worker-Main-3/WARN] [lithostitched/]: Non-existent template pool reference: fokastudio:end/stronghold/illagers
+[01Aug2025 21:22:09.386] [Worker-Main-3/WARN] [lithostitched/]: Non-existent template pool reference: stellaris:stronghold/corridors_no_stairs
+[01Aug2025 21:22:09.389] [Worker-Main-3/WARN] [lithostitched/]: Non-existent template pool reference: stellaris:stronghold/corridors_no_stairs
+[01Aug2025 21:22:09.823] [Worker-Main-3/WARN] [lithostitched/]: Non-existent template pool reference: stellaris:stronghold/corridors_no_stairs
+[01Aug2025 21:22:09.824] [Worker-Main-3/WARN] [lithostitched/]: Non-existent template pool reference: stellaris:stronghold/corridors_no_stairs
+[01Aug2025 21:22:10.002] [Worker-Main-3/WARN] [lithostitched/]: Non-existent template pool reference: stellaris:stronghold/corridors_no_stairs
+[01Aug2025 21:22:10.277] [Worker-Main-3/WARN] [lithostitched/]: Non-existent template pool reference: stellaris:stronghold/corridors_no_stairs
+[01Aug2025 21:22:10.846] [Worker-Main-3/WARN] [lithostitched/]: Non-existent template pool reference: fokastudio:end/stronghold/illagers
+[01Aug2025 21:22:11.151] [Worker-Main-3/WARN] [lithostitched/]: Non-existent template pool reference: stellaris:stronghold/corridors_no_stairs
+[01Aug2025 21:22:11.152] [Worker-Main-3/WARN] [lithostitched/]: Non-existent template pool reference: fokastudio:end/stronghold/illagers
+[01Aug2025 21:22:11.152] [Worker-Main-3/WARN] [lithostitched/]: Non-existent template pool reference: stellaris:stronghold/illagers
+[01Aug2025 21:22:11.271] [Worker-Main-3/WARN] [lithostitched/]: Non-existent template pool reference: stellaris:stronghold/corridors_no_stairs
+[01Aug2025 21:22:11.496] [Worker-Main-3/WARN] [lithostitched/]: Non-existent template pool reference: fokastudio:end/stronghold/illagers
+[01Aug2025 21:22:12.572] [Worker-Main-3/WARN] [lithostitched/]: Non-existent template pool reference: stellaris:stronghold/corridors_no_stairs
+[01Aug2025 21:22:28.718] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5513ms or 110 ticks behind
+[01Aug2025 21:22:33.154] [Worker-Main-1/WARN] [lithostitched/]: Non-existent template pool reference: ctov:village/vampirism/totem
+[01Aug2025 21:22:33.162] [Worker-Main-1/WARN] [lithostitched/]: Non-existent template pool reference: ctov:village/bounty/swamp
+[01Aug2025 21:22:33.162] [Worker-Main-1/WARN] [lithostitched/]: Non-existent template pool reference: ctov:village/waystone/normal
+[01Aug2025 21:22:48.199] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4494ms or 89 ticks behind
+[01Aug2025 21:22:58.557] [Worker-Main-3/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [89, -59], pos: BlockPos{x=1437, y=60, z=-939}, status: minecraft:features, currently generating: Placed Direct{Configured: untamedwilds.world.gen.feature.FeatureReedClusters@67e9985f: net.minecraft.world.level.levelgen.feature.configurations.NoneFeatureConfiguration@2be84eb5}
+[01Aug2025 21:23:00.760] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-22, y=-57, z=11}
+[01Aug2025 21:23:12.667] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9511ms or 190 ticks behind
+[01Aug2025 21:23:38.335] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10679ms or 213 ticks behind
+[01Aug2025 21:23:50.009] [Worker-Main-2/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [80, -63], pos: BlockPos{x=1282, y=60, z=-1007}, status: minecraft:features, currently generating: Placed Direct{Configured: untamedwilds.world.gen.feature.FeatureReedClusters@67e9985f: net.minecraft.world.level.levelgen.feature.configurations.NoneFeatureConfiguration@2be84eb5}
+[01Aug2025 21:23:50.010] [Worker-Main-2/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [80, -63], pos: BlockPos{x=1282, y=60, z=-1004}, status: minecraft:features, currently generating: Placed Direct{Configured: untamedwilds.world.gen.feature.FeatureReedClusters@67e9985f: net.minecraft.world.level.levelgen.feature.configurations.NoneFeatureConfiguration@2be84eb5}
+[01Aug2025 21:23:50.010] [Worker-Main-2/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [80, -63], pos: BlockPos{x=1284, y=60, z=-1006}, status: minecraft:features, currently generating: Placed Direct{Configured: untamedwilds.world.gen.feature.FeatureReedClusters@67e9985f: net.minecraft.world.level.levelgen.feature.configurations.NoneFeatureConfiguration@2be84eb5}

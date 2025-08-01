@@ -497,6 +497,7 @@
       "entered_tower_of_the_undead": "2025-08-01 20:44:46 +0000",
       "entered_stables": "2025-08-01 20:18:16 +0000",
       "entered_druid_circle": "2025-08-01 21:04:58 +0000",
+      "entered_watch_tower": "2025-08-01 21:19:22 +0000",
       "entered_ruined_building": "2025-08-01 21:01:13 +0000"
     },
     "done": false
@@ -546,6 +547,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:vindicator": "2025-08-01 20:36:37 +0000",
+      "minecraft:husk": "2025-08-01 21:18:43 +0000",
       "minecraft:zombie": "2025-08-01 20:19:04 +0000"
     },
     "done": false
@@ -1393,6 +1395,12 @@
   "minecraft:recipes/transportation/jungle_boat": {
     "criteria": {
       "in_water": "2025-08-01 20:04:18 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/funeral_theft": {
+    "criteria": {
+      "coded_trigger": "2025-08-01 21:16:26 +0000"
     },
     "done": true
   },
@@ -2264,6 +2272,12 @@
     },
     "done": true
   },
+  "apotheosis:affix/boss": {
+    "criteria": {
+      "sword": "2025-08-01 21:18:44 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/upgrade_base": {
     "criteria": {
       "has_leather": "2025-08-01 20:12:26 +0000"
@@ -2524,6 +2538,12 @@
   "minecraft:recipes/decorations/anvil": {
     "criteria": {
       "has_iron_block": "2025-08-01 20:45:21 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/ashes_and_bones": {
+    "criteria": {
+      "coded_trigger": "2025-08-01 21:18:43 +0000"
     },
     "done": true
   },
