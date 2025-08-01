@@ -147,10 +147,12 @@
       "minecraft:beach": "2025-08-01 20:57:54 +0000",
       "minecraft:mangrove_swamp": "2025-08-01 20:52:11 +0000",
       "minecraft:river": "2025-08-01 20:12:42 +0000",
+      "minecraft:snowy_plains": "2025-08-01 21:30:02 +0000",
       "minecraft:stony_shore": "2025-08-01 20:34:26 +0000",
       "minecraft:snowy_taiga": "2025-08-01 18:39:33 +0000",
       "minecraft:swamp": "2025-08-01 20:52:13 +0000",
       "minecraft:forest": "2025-08-01 20:42:49 +0000",
+      "minecraft:snowy_beach": "2025-08-01 21:23:54 +0000",
       "minecraft:old_growth_birch_forest": "2025-08-01 20:30:46 +0000",
       "minecraft:plains": "2025-08-01 20:11:54 +0000"
     },
@@ -261,6 +263,12 @@
   "create:recipes/building_blocks/crafting/logistics/green_table_cloth": {
     "criteria": {
       "has_wool": "2025-08-01 20:55:26 +0000"
+    },
+    "done": true
+  },
+  "incendium:root": {
+    "criteria": {
+      "requirement": "2025-08-01 21:26:16 +0000"
     },
     "done": true
   },
@@ -425,6 +433,12 @@
       "has_wool": "2025-08-01 20:55:26 +0000"
     },
     "done": true
+  },
+  "regions_unexplored:eternal_expedition": {
+    "criteria": {
+      "blackstone_basin": "2025-08-01 21:26:17 +0000"
+    },
+    "done": false
   },
   "naturescompass:natures_compass": {
     "criteria": {
@@ -1056,6 +1070,12 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/crocodile": {
+    "criteria": {
+      "killed_by": "2025-08-01 21:21:01 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/building_blocks/blue_painted_planks": {
     "criteria": {
       "has_planks": "2025-08-01 20:07:43 +0000"
@@ -1632,6 +1652,12 @@
     },
     "done": true
   },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2025-08-01 21:26:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_ingot_from_nuggets": {
     "criteria": {
       "has_gold_nugget": "2025-08-01 20:15:17 +0000"
@@ -2136,6 +2162,12 @@
     },
     "done": true
   },
+  "nethers_exorcism_reborn:nether_exorcism": {
+    "criteria": {
+      "nether_exorcism_0": "2025-08-01 21:26:16 +0000"
+    },
+    "done": true
+  },
   "justhammers:recipes/tools/iron_hammer": {
     "criteria": {
       "has_material": "2025-08-01 20:15:17 +0000"
@@ -2202,6 +2234,12 @@
     },
     "done": true
   },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2025-08-01 21:26:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/flint_and_steel": {
     "criteria": {
       "has_obsidian": "2025-08-01 20:17:11 +0000"
@@ -2215,6 +2253,7 @@
       "pine_taiga": "2025-08-01 20:31:00 +0000",
       "bayou": "2025-08-01 20:58:10 +0000",
       "autumnal_maple_forest": "2025-08-01 20:58:50 +0000",
+      "muddy_river": "2025-08-01 21:30:39 +0000",
       "marsh": "2025-08-01 20:46:17 +0000",
       "willow_forest": "2025-08-01 20:35:01 +0000",
       "frozen_tundra": "2025-08-01 20:04:08 +0000",
@@ -2224,13 +2263,17 @@
       "frozen_pine_taiga": "2025-08-01 20:04:23 +0000",
       "maple_forest": "2025-08-01 20:58:45 +0000",
       "magnolia_highlands": "2025-08-01 20:29:16 +0000",
+      "mountains": "2025-08-01 21:31:40 +0000",
       "boreal_forest": "2025-08-01 21:02:06 +0000",
+      "blackstone_basin": "2025-08-01 21:26:17 +0000",
       "towering_cliffs": "2025-08-01 20:44:33 +0000",
       "bamboo_forest": "2025-08-01 20:44:23 +0000",
       "cold_boreal_taiga": "2025-08-01 20:04:07 +0000",
       "temperate_grove": "2025-08-01 20:57:47 +0000",
       "cold_river": "2025-08-01 20:11:51 +0000",
+      "pine_slopes": "2025-08-01 21:31:38 +0000",
       "old_growth_bayou": "2025-08-01 21:12:41 +0000",
+      "spires": "2025-08-01 21:24:06 +0000",
       "redwoods": "2025-08-01 20:43:13 +0000",
       "lupine_plains": "2025-08-01 20:30:26 +0000"
     },
@@ -2320,6 +2363,12 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/misc/copper_backpack": {
+    "criteria": {
+      "has_backpack": "2025-08-01 21:28:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_mutton_from_campfire_cooking": {
     "criteria": {
       "has_mutton": "2025-08-01 20:55:26 +0000"
@@ -2357,6 +2406,7 @@
       "pine_taiga": "2025-08-01 20:31:00 +0000",
       "bayou": "2025-08-01 20:58:10 +0000",
       "autumnal_maple_forest": "2025-08-01 20:58:50 +0000",
+      "muddy_river": "2025-08-01 21:30:39 +0000",
       "marsh": "2025-08-01 20:46:17 +0000",
       "willow_forest": "2025-08-01 20:35:01 +0000",
       "frozen_tundra": "2025-08-01 20:04:08 +0000",
@@ -2366,13 +2416,16 @@
       "frozen_pine_taiga": "2025-08-01 20:04:23 +0000",
       "maple_forest": "2025-08-01 20:58:45 +0000",
       "magnolia_highlands": "2025-08-01 20:29:16 +0000",
+      "mountains": "2025-08-01 21:31:40 +0000",
       "boreal_forest": "2025-08-01 21:02:06 +0000",
       "towering_cliffs": "2025-08-01 20:44:33 +0000",
       "bamboo_forest": "2025-08-01 20:44:23 +0000",
       "cold_boreal_taiga": "2025-08-01 20:04:07 +0000",
       "temperate_grove": "2025-08-01 20:57:47 +0000",
       "cold_river": "2025-08-01 20:11:51 +0000",
+      "pine_slopes": "2025-08-01 21:31:38 +0000",
       "old_growth_bayou": "2025-08-01 21:12:41 +0000",
+      "spires": "2025-08-01 21:24:06 +0000",
       "redwoods": "2025-08-01 20:43:13 +0000",
       "lupine_plains": "2025-08-01 20:30:26 +0000"
     },
@@ -2616,6 +2669,12 @@
   "minecraft:recipes/food/cooked_beef_from_campfire_cooking": {
     "criteria": {
       "has_beef": "2025-08-01 20:12:25 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/iron_backpack": {
+    "criteria": {
+      "has_backpack": "2025-08-01 21:28:22 +0000"
     },
     "done": true
   },

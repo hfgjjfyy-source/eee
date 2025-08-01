@@ -2281,6 +2281,12 @@
     },
     "done": true
   },
+  "ancient_elements:very_hot": {
+    "criteria": {
+      "very_hot": "2025-08-01 21:33:46 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/crafting/kinetics/pink_seat": {
     "criteria": {
       "has_wool": "2025-08-01 20:19:46 +0000"

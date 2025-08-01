@@ -85,7 +85,7 @@
   },
   "incendium:technical/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-08-01 21:20:55 +0000"
+      "log_spam_fixer": "2025-08-01 21:34:29 +0000"
     },
     "done": false
   },
@@ -337,7 +337,7 @@
   },
   "incendium:technical/on_player_hurt": {
     "criteria": {
-      "log_spam_fixer": "2025-08-01 21:20:55 +0000"
+      "log_spam_fixer": "2025-08-01 21:34:29 +0000"
     },
     "done": false
   },
@@ -743,7 +743,7 @@
   },
   "incendium:technical/on_kill": {
     "criteria": {
-      "log_spam_fixer": "2025-08-01 21:20:55 +0000"
+      "log_spam_fixer": "2025-08-01 21:34:29 +0000"
     },
     "done": false
   },
@@ -816,6 +816,12 @@
   "securitycraft:recipes/misc/briefcase": {
     "criteria": {
       "has_iron": "2025-08-01 20:13:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2025-08-01 21:30:55 +0000"
     },
     "done": true
   },
@@ -1067,7 +1073,7 @@
   },
   "incendium:technical/on_inventory_change": {
     "criteria": {
-      "log_spam_fixer": "2025-08-01 21:20:55 +0000"
+      "log_spam_fixer": "2025-08-01 21:34:29 +0000"
     },
     "done": false
   },
@@ -1313,7 +1319,7 @@
   },
   "incendium:technical/holy_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-08-01 21:20:55 +0000"
+      "log_spam_fixer": "2025-08-01 21:34:29 +0000"
     },
     "done": false
   },
@@ -1337,7 +1343,7 @@
   },
   "incendium:technical/on_block": {
     "criteria": {
-      "log_spam_fixer": "2025-08-01 21:20:55 +0000"
+      "log_spam_fixer": "2025-08-01 21:34:29 +0000"
     },
     "done": false
   },
@@ -1557,6 +1563,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/magma_block": {
+    "criteria": {
+      "has_magma_cream": "2025-08-01 21:31:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_leggings": {
     "criteria": {
       "has_iron_ingot": "2025-08-01 20:13:14 +0000"
@@ -1643,7 +1655,7 @@
   },
   "incendium:technical/inventory/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-08-01 21:20:55 +0000"
+      "log_spam_fixer": "2025-08-01 21:34:29 +0000"
     },
     "done": false
   },
@@ -1817,7 +1829,7 @@
   },
   "incendium:technical/feed_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-08-01 21:20:55 +0000"
+      "log_spam_fixer": "2025-08-01 21:34:29 +0000"
     },
     "done": false
   },
@@ -2057,7 +2069,7 @@
   },
   "incendium:technical/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-08-01 21:20:55 +0000"
+      "log_spam_fixer": "2025-08-01 21:34:29 +0000"
     },
     "done": false
   },
@@ -2165,7 +2177,7 @@
   },
   "incendium:technical/inventory/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-08-01 21:20:55 +0000"
+      "log_spam_fixer": "2025-08-01 21:34:29 +0000"
     },
     "done": false
   },
@@ -2190,6 +2202,12 @@
   "minecraft:recipes/transportation/oak_boat": {
     "criteria": {
       "in_water": "2025-08-01 20:22:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/paper": {
+    "criteria": {
+      "has_reeds": "2025-08-01 21:33:23 +0000"
     },
     "done": true
   },
@@ -2255,7 +2273,7 @@
   },
   "incendium:technical/give_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-08-01 21:20:55 +0000"
+      "log_spam_fixer": "2025-08-01 21:34:29 +0000"
     },
     "done": false
   },
@@ -2387,7 +2405,7 @@
   },
   "incendium:technical/multiplex_crossbow": {
     "criteria": {
-      "log_spam_fixer": "2025-08-01 21:20:55 +0000"
+      "log_spam_fixer": "2025-08-01 21:34:29 +0000"
     },
     "done": false
   },
@@ -2448,6 +2466,12 @@
   "create:recipes/building_blocks/andesite_pillar_from_stone_types_andesite_stonecutting": {
     "criteria": {
       "has_stone_types_andesite": "2025-08-01 20:25:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/sugar_from_sugar_cane": {
+    "criteria": {
+      "has_sugar_cane": "2025-08-01 21:33:23 +0000"
     },
     "done": true
   },
@@ -2699,6 +2723,7 @@
       "minecraft:taiga": "2025-08-01 20:05:36 +0000",
       "minecraft:dripstone_caves": "2025-08-01 20:27:14 +0000",
       "minecraft:snowy_taiga": "2025-08-01 20:02:04 +0000",
+      "minecraft:forest": "2025-08-01 21:32:57 +0000",
       "minecraft:old_growth_birch_forest": "2025-08-01 20:07:26 +0000"
     },
     "done": false
@@ -2750,6 +2775,7 @@
       "cooked_porkchop": "2025-08-01 20:16:27 +0000",
       "cooked_mutton": "2025-08-01 21:11:44 +0000",
       "cooked_beef": "2025-08-01 20:38:42 +0000",
+      "cooked_cod": "2025-08-01 21:29:32 +0000",
       "bread": "2025-08-01 20:24:20 +0000",
       "cooked_rabbit": "2025-08-01 21:06:39 +0000",
       "cooked_chicken": "2025-08-01 21:10:00 +0000"
