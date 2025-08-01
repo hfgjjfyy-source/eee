@@ -158,6 +158,78 @@
     },
     "done": false
   },
+  "incendium:technical/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-08-01 21:37:20 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_player_hurt": {
+    "criteria": {
+      "log_spam_fixer": "2025-08-01 21:37:20 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_kill": {
+    "criteria": {
+      "log_spam_fixer": "2025-08-01 21:37:20 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "log_spam_fixer": "2025-08-01 21:37:20 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/holy_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-08-01 21:37:20 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_block": {
+    "criteria": {
+      "log_spam_fixer": "2025-08-01 21:37:20 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-08-01 21:37:20 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/feed_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-08-01 21:37:20 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-08-01 21:37:20 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-08-01 21:37:20 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/give_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-08-01 21:37:20 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/multiplex_crossbow": {
+    "criteria": {
+      "log_spam_fixer": "2025-08-01 21:37:20 +0000"
+    },
+    "done": false
+  },
   "man:feelingwatched": {
     "criteria": {
       "feelingwatched_0": "2025-08-01 18:43:41 +0000"
@@ -2274,6 +2346,7 @@
       "pine_slopes": "2025-08-01 21:31:38 +0000",
       "old_growth_bayou": "2025-08-01 21:12:41 +0000",
       "spires": "2025-08-01 21:24:06 +0000",
+      "gravel_beach": "2025-08-01 21:37:35 +0000",
       "redwoods": "2025-08-01 20:43:13 +0000",
       "lupine_plains": "2025-08-01 20:30:26 +0000"
     },
@@ -2426,6 +2499,7 @@
       "pine_slopes": "2025-08-01 21:31:38 +0000",
       "old_growth_bayou": "2025-08-01 21:12:41 +0000",
       "spires": "2025-08-01 21:24:06 +0000",
+      "gravel_beach": "2025-08-01 21:37:35 +0000",
       "redwoods": "2025-08-01 20:43:13 +0000",
       "lupine_plains": "2025-08-01 20:30:26 +0000"
     },

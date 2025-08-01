@@ -85,7 +85,7 @@
   },
   "incendium:technical/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-08-01 21:34:29 +0000"
+      "log_spam_fixer": "2025-08-01 21:40:32 +0000"
     },
     "done": false
   },
@@ -176,6 +176,12 @@
   "minecraft:recipes/decorations/blue_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_blue_dye": "2025-08-01 20:56:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/white_dye": {
+    "criteria": {
+      "has_bone_meal": "2025-08-01 21:35:24 +0000"
     },
     "done": true
   },
@@ -337,7 +343,7 @@
   },
   "incendium:technical/on_player_hurt": {
     "criteria": {
-      "log_spam_fixer": "2025-08-01 21:34:29 +0000"
+      "log_spam_fixer": "2025-08-01 21:40:32 +0000"
     },
     "done": false
   },
@@ -743,7 +749,7 @@
   },
   "incendium:technical/on_kill": {
     "criteria": {
-      "log_spam_fixer": "2025-08-01 21:34:29 +0000"
+      "log_spam_fixer": "2025-08-01 21:40:32 +0000"
     },
     "done": false
   },
@@ -816,6 +822,12 @@
   "securitycraft:recipes/misc/briefcase": {
     "criteria": {
       "has_iron": "2025-08-01 20:13:14 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/appliances/tree_fertilizer": {
+    "criteria": {
+      "has_item": "2025-08-01 21:35:24 +0000"
     },
     "done": true
   },
@@ -1073,7 +1085,7 @@
   },
   "incendium:technical/on_inventory_change": {
     "criteria": {
-      "log_spam_fixer": "2025-08-01 21:34:29 +0000"
+      "log_spam_fixer": "2025-08-01 21:40:32 +0000"
     },
     "done": false
   },
@@ -1319,7 +1331,7 @@
   },
   "incendium:technical/holy_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-08-01 21:34:29 +0000"
+      "log_spam_fixer": "2025-08-01 21:40:32 +0000"
     },
     "done": false
   },
@@ -1343,7 +1355,7 @@
   },
   "incendium:technical/on_block": {
     "criteria": {
-      "log_spam_fixer": "2025-08-01 21:34:29 +0000"
+      "log_spam_fixer": "2025-08-01 21:40:32 +0000"
     },
     "done": false
   },
@@ -1557,6 +1569,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/bone_block": {
+    "criteria": {
+      "has_bone_meal": "2025-08-01 21:35:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/lever": {
     "criteria": {
       "has_cobblestone": "2025-08-01 20:10:22 +0000"
@@ -1655,7 +1673,7 @@
   },
   "incendium:technical/inventory/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-08-01 21:34:29 +0000"
+      "log_spam_fixer": "2025-08-01 21:40:32 +0000"
     },
     "done": false
   },
@@ -1827,9 +1845,15 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/tree_fertilizer": {
+    "criteria": {
+      "has_item": "2025-08-01 21:35:24 +0000"
+    },
+    "done": true
+  },
   "incendium:technical/feed_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-08-01 21:34:29 +0000"
+      "log_spam_fixer": "2025-08-01 21:40:32 +0000"
     },
     "done": false
   },
@@ -2049,6 +2073,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
+    "criteria": {
+      "has_dandelion": "2025-08-01 21:35:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/bone_meal": {
     "criteria": {
       "has_bone": "2025-08-01 20:13:30 +0000"
@@ -2069,7 +2099,7 @@
   },
   "incendium:technical/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-08-01 21:34:29 +0000"
+      "log_spam_fixer": "2025-08-01 21:40:32 +0000"
     },
     "done": false
   },
@@ -2177,7 +2207,7 @@
   },
   "incendium:technical/inventory/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-08-01 21:34:29 +0000"
+      "log_spam_fixer": "2025-08-01 21:40:32 +0000"
     },
     "done": false
   },
@@ -2273,7 +2303,7 @@
   },
   "incendium:technical/give_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-08-01 21:34:29 +0000"
+      "log_spam_fixer": "2025-08-01 21:40:32 +0000"
     },
     "done": false
   },
@@ -2405,7 +2435,7 @@
   },
   "incendium:technical/multiplex_crossbow": {
     "criteria": {
-      "log_spam_fixer": "2025-08-01 21:34:29 +0000"
+      "log_spam_fixer": "2025-08-01 21:40:32 +0000"
     },
     "done": false
   },
@@ -2777,6 +2807,7 @@
       "cooked_beef": "2025-08-01 20:38:42 +0000",
       "cooked_cod": "2025-08-01 21:29:32 +0000",
       "bread": "2025-08-01 20:24:20 +0000",
+      "golden_carrot": "2025-08-01 21:37:00 +0000",
       "cooked_rabbit": "2025-08-01 21:06:39 +0000",
       "cooked_chicken": "2025-08-01 21:10:00 +0000"
     },

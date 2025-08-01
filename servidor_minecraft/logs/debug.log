@@ -13968,3 +13968,26 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.Entity
 [01Aug2025 21:34:15.373] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8017ms or 160 ticks behind
 [01Aug2025 21:34:31.334] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [01Aug2025 21:34:31.357] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[01Aug2025 21:34:42.051] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 11695ms or 233 ticks behind
+[01Aug2025 21:34:50.412] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[01Aug2025 21:35:03.564] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6558ms or 131 ticks behind
+[01Aug2025 21:35:23.258] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4702ms or 94 ticks behind
+[01Aug2025 21:35:43.983] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5728ms or 114 ticks behind
+[01Aug2025 21:36:05.418] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6463ms or 129 ticks behind
+[01Aug2025 21:36:26.257] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5852ms or 117 ticks behind
+[01Aug2025 21:36:46.771] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5516ms or 110 ticks behind
+[01Aug2025 21:37:07.131] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5376ms or 107 ticks behind
+[01Aug2025 21:37:21.872] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RODSQUARE has made the advancement [A Terrible Fortress]
+[01Aug2025 21:37:27.801] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5696ms or 113 ticks behind
+[01Aug2025 21:37:48.055] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5299ms or 105 ticks behind
+[01Aug2025 21:37:48.548] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Lisbeth'/144155, l='ServerLevel[world]', x=-2102.97, y=117.00, z=-4718.50] died, message: 'Lisbeth was slain by Zombie Girl'
+[01Aug2025 21:37:48.549] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Lisbeth'/144155, l='ServerLevel[world]', x=-2102.97, y=117.00, z=-4718.50] died: Lisbeth was slain by Zombie Girl
+[01Aug2025 21:38:07.926] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4921ms or 98 ticks behind
+[01Aug2025 21:38:15.101] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JUANCITO lost connection: Disconnected
+[01Aug2025 21:38:15.101] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JUANCITO left the game
+[01Aug2025 21:40:32.631] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01Aug2025 21:40:32.654] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[01Aug2025 21:42:32.822] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Ragna'/146584, l='ServerLevel[world]', x=-2141.51, y=140.00, z=-4756.48] died, message: 'Ragna was slain by Zombie Lumberjack'
+[01Aug2025 21:42:32.823] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Ragna'/146584, l='ServerLevel[world]', x=-2141.51, y=140.00, z=-4756.48] died: Ragna was slain by Zombie Lumberjack
+[01Aug2025 21:43:41.351] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: -Azumi- has made the advancement [The Wind Darkening]
+[01Aug2025 21:44:09.218] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
