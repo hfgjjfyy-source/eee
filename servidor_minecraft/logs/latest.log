@@ -1435,3 +1435,21 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [02Aug2025 16:42:14.855] [Server thread/ERROR] [placebo/]: SetPredicate[#irons_spellbooks]
 [02Aug2025 16:42:43.970] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: RODSQUARE lost connection: Disconnected
 [02Aug2025 16:42:43.971] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RODSQUARE left the game
+[02Aug2025 17:07:11.923] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: RODSQUARE[/127.244.12.29:52585] logged in with entity id 153031 at (-524.1423736800231, 63.0, 579.1175284849663)
+[02Aug2025 17:07:11.949] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RODSQUARE joined the game
+[02Aug2025 17:07:11.998] [Server thread/INFO] [untamedwilds.UntamedWilds/]: Firing player login event
+[02Aug2025 17:07:12.002] [Server thread/INFO] [Jade/]: Syncing config to RODSQUARE (d213f98a-8819-3332-86f9-4d0fa56776af)
+[02Aug2025 17:07:20.611] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RODSQUARE was slain by Zombie
+[02Aug2025 17:07:20.634] [Server thread/INFO] [tombstone/]: The player RODSQUARE has successfully been saved
+[02Aug2025 17:10:22.305] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[02Aug2025 17:10:52.706] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[02Aug2025 17:11:49.868] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RODSQUARE was slain by Royal Draugr
+[02Aug2025 17:11:49.882] [Server thread/INFO] [tombstone/]: The player RODSQUARE has successfully been saved
+[02Aug2025 17:12:00.804] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:stone_golem but it was marked as removed already
+[02Aug2025 17:12:26.461] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RODSQUARE has reached the goal [Chain Death]
+[02Aug2025 17:12:26.462] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RODSQUARE was slain by Draugr
+[02Aug2025 17:12:26.980] [Server thread/INFO] [tombstone/]: The player RODSQUARE has successfully been saved
+[02Aug2025 17:15:38.764] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RODSQUARE was slain by Aptrgangr
+[02Aug2025 17:15:38.786] [Server thread/INFO] [tombstone/]: The player RODSQUARE has successfully been saved
+[02Aug2025 17:15:48.454] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[02Aug2025 17:15:56.806] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:stone_golem but it was marked as removed already
