@@ -10486,3 +10486,7 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [02Aug2025 16:42:43.971] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RODSQUARE left the game
 [02Aug2025 16:46:39.533] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [02Aug2025 16:46:39.555] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[02Aug2025 16:51:39.499] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02Aug2025 16:51:39.518] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[02Aug2025 16:56:39.502] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02Aug2025 16:56:39.526] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
