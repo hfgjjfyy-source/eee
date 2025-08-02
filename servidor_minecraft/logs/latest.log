@@ -1427,3 +1427,11 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [02Aug2025 16:36:28.013] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Eva'/148352, l='ServerLevel[world]', x=-870.70, y=73.81, z=806.77] died, message: 'Eva was frozen by Ice Dragon'
 [02Aug2025 16:36:28.014] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Eva'/148352, l='ServerLevel[world]', x=-870.70, y=73.81, z=806.77] died: Eva was frozen by Ice Dragon
 [02Aug2025 16:37:11.256] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[02Aug2025 16:38:48.762] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:stone_golem but it was marked as removed already
+[02Aug2025 16:39:46.392] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RODSQUARE has reached the goal [Who's The Thief Now]
+[02Aug2025 16:40:33.063] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RODSQUARE was slain by Royal Draugr
+[02Aug2025 16:40:33.081] [Server thread/INFO] [tombstone/]: The player RODSQUARE has successfully been saved
+[02Aug2025 16:42:14.854] [Server thread/ERROR] [placebo/]: Failed to locate any gear sets matching the following predicates: 
+[02Aug2025 16:42:14.855] [Server thread/ERROR] [placebo/]: SetPredicate[#irons_spellbooks]
+[02Aug2025 16:42:43.970] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: RODSQUARE lost connection: Disconnected
+[02Aug2025 16:42:43.971] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RODSQUARE left the game
