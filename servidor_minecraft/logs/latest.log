@@ -1453,3 +1453,33 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [02Aug2025 17:15:38.786] [Server thread/INFO] [tombstone/]: The player RODSQUARE has successfully been saved
 [02Aug2025 17:15:48.454] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
 [02Aug2025 17:15:56.806] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:stone_golem but it was marked as removed already
+[02Aug2025 17:20:56.669] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RODSQUARE was cursed by Maledictus
+[02Aug2025 17:20:56.678] [Server thread/INFO] [tombstone/]: The player RODSQUARE has successfully been saved
+[02Aug2025 17:21:35.923] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RODSQUARE was cursed by Maledictus 's Magic
+[02Aug2025 17:21:35.930] [Server thread/INFO] [tombstone/]: The player RODSQUARE has successfully been saved
+[02Aug2025 17:22:08.122] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RODSQUARE was cursed by Maledictus 's Magic
+[02Aug2025 17:22:08.128] [Server thread/INFO] [tombstone/]: The player RODSQUARE has successfully been saved
+[02Aug2025 17:22:48.914] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RODSQUARE was cursed by Maledictus
+[02Aug2025 17:22:48.935] [Server thread/INFO] [tombstone/]: The player RODSQUARE has successfully been saved
+[02Aug2025 17:23:14.765] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RODSQUARE was slain by Maledictus
+[02Aug2025 17:23:14.791] [Server thread/INFO] [tombstone/]: The player RODSQUARE has successfully been saved
+[02Aug2025 17:23:28.603] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: RODSQUARE lost connection: Timed out
+[02Aug2025 17:23:28.603] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RODSQUARE left the game
+[02Aug2025 17:24:06.422] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: RODSQUARE[/127.244.12.29:52983] logged in with entity id 163223 at (4134.224029753398, 75.0, -5038.609103800993)
+[02Aug2025 17:24:06.441] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RODSQUARE joined the game
+[02Aug2025 17:24:06.477] [Server thread/INFO] [untamedwilds.UntamedWilds/]: Firing player login event
+[02Aug2025 17:24:06.478] [Server thread/INFO] [Jade/]: Syncing config to RODSQUARE (d213f98a-8819-3332-86f9-4d0fa56776af)
+[02Aug2025 17:24:44.473] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RODSQUARE was cursed by Maledictus 's Magic
+[02Aug2025 17:24:44.480] [Server thread/INFO] [tombstone/]: The player RODSQUARE has successfully been saved
+[02Aug2025 17:25:21.671] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: RODSQUARE lost connection: Timed out
+[02Aug2025 17:25:21.671] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RODSQUARE left the game
+[02Aug2025 17:25:22.476] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: RODSQUARE[/127.244.12.29:56889] logged in with entity id 164107 at (4135.548502858044, 75.0, -5033.191747621165)
+[02Aug2025 17:25:22.509] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RODSQUARE joined the game
+[02Aug2025 17:25:22.544] [Server thread/INFO] [untamedwilds.UntamedWilds/]: Firing player login event
+[02Aug2025 17:25:22.547] [Server thread/INFO] [Jade/]: Syncing config to RODSQUARE (d213f98a-8819-3332-86f9-4d0fa56776af)
+[02Aug2025 17:25:59.714] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RODSQUARE was cursed by Maledictus
+[02Aug2025 17:25:59.744] [Server thread/INFO] [tombstone/]: The player RODSQUARE has successfully been saved
+[02Aug2025 17:26:21.371] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RODSQUARE has reached the goal [Strong Undead]
+[02Aug2025 17:26:21.371] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RODSQUARE has completed the challenge [Crusade Against Curse]
+[02Aug2025 17:27:08.769] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RODSQUARE has reached the goal [Traveling lightning rod]
+[02Aug2025 17:28:11.454] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
